@@ -2,18 +2,20 @@
 Using this repository to write QA test 
 ## Requirements
 QA Interview Test
-Instructions:
-1. Create detailed test scenarios based on the provided wireframes and requirements.
-2. You may use your own template
-3. Email the test on this email:
+### Instructions:
+  1. Create detailed test scenarios based on the provided wireframes and requirements.
+  2. You may use your own template
+  3. Email the test on this email:
 Wireframes:
+![image](https://user-images.githubusercontent.com/57451862/214206312-1e54dfc7-d836-4493-8901-077dbd11055c.png)
+
 Requirements:
-1. By selecting the Publisher Name dropdown, you will be able to see that data (for all
-cards in the dashboard) for that publisher.
-2. By selecting on the Date Range dropdown filter, you will be able to see the data (for all
-cards in the dashboard) for that specified date range.
-a. You can set the filters as follows:
-i. Today
+  1. By selecting the Publisher Name dropdown, you will be able to see that data (for all
+      cards in the dashboard) for that publisher.
+  2. By selecting on the Date Range dropdown filter, you will be able to see the data (for all
+      cards in the dashboard) for that specified date range.
+          a. You can set the filters as follows:
+              i. Today
 ii. Yesterday
 iii. 7 days
 iv. 14 days
