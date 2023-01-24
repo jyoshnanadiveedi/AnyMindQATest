@@ -13,8 +13,8 @@ QA Interview Test
   1. By selecting the Publisher Name dropdown, you will be able to see that data (for all cards in the dashboard) for that publisher.
   2. By selecting on the Date Range dropdown filter, you will be able to see the data (for all cards in the dashboard) for that specified date range.
           a. You can set the filters as follows:
-              i. Today
-ii. Yesterday
+              :i. Today
+              :ii. Yesterday
 iii. 7 days
 iv. 14 days
 v. 30 days
